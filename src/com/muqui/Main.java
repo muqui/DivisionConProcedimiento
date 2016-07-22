@@ -12,6 +12,6 @@ package com.muqui;
 public class Main {
     public static void main(String [] args){
      DivisionConProcedimiento division = new DivisionConProcedimiento();
-     division.procedimiento3("1000", "20");
+     division.procedimiento3("639280", "40");
     }
 }

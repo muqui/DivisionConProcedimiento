@@ -248,7 +248,7 @@ public class DivisionConProcedimiento {
 
         while (iter.hasNext()) {
 
-            System.out.println("Final" + iter.next());
+            System.out.println("" + iter.next());
 
         }
 
