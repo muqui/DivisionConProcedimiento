@@ -22,7 +22,7 @@ public class DivisionConProcedimiento {
         List<String> cocientes = new ArrayList<String>();
         List<String> linea = null;
         String ayuda = null;
-        //= new ArrayList<String>();
+       
         int apuntador = divisor.length();
 //        System.out.println("apuntador " + apuntador);
         int size = 0;
